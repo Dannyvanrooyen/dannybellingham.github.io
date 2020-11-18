@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times new roman', cursive;
+    border: 4px dashed yellow;
+    margin-left: 20%;
+    padding: 50px;
+    width: 60%;
+    margin-top: 100px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6thY8S2gIlEQH-3MybSY3unpqfCnjANj8_w&usqp=CAU);
+    color: chartreuse;
+}
+#btn {
+    color: black;
+    width: 58px;
+    margin-left: 15%;
+    
+}
+#txtname {
+    width: 150px;
+    margin-left: 2%;
+}
+#txtpass {
+    width: 150px;
+    margin-left: 3%;
+}

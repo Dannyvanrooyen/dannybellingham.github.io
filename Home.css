@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times new roman', cursive;
+    border: 4px dashed yellow;
+    margin-left: 20%;
+    padding: 50px;
+    width: 60%;
+    margin-top: 100px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6thY8S2gIlEQH-3MybSY3unpqfCnjANj8_w&usqp=CAU);
+    color: chartreuse;
+}
+#DBn {
+    color: black;
+    width: 150px;
+    margin-left: 2%;
+    
+}
+#tpe {
+    width: 150px;
+    margin-left: 8.5%;
+}
+#Pth {
+    width: 150px;
+    margin-left: 5%;
+}
+#Tbl {
+    width: 150px;
+    margin-left: 8.8%;
+}
+#Fld {
+    width: 150px;
+    margin-left: 6.5%;
+}
+#Cat {
+    width: 150px;
+    margin-left: 2.6%;
+}
+#btn {
+    width: 58px;
+    margin-left: 10%;
+}
